@@ -58,7 +58,7 @@
     "js-base64": "^3.7.7",
     "jwt-decode": "^4.0.0",
     "lucide-react": "^0.484.0",
-    "mobx": "^6.10",
+    "mobx": "^6.13.7",
     "mobx-react": "^7.6",
     "moment": "^2.29.4",
     "monaco-editor": "^0.52.0",
